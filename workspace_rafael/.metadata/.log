@@ -238,3 +238,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE Could not delete T:\Usuarios\INFORMATICA\3B MODULAR NOITE\Rafael\workspace_rafael\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\livraria02\WEB-INF\lib\jsf-impl-2.1.14.jar. May be locked by another process.
 !SUBENTRY 1 org.eclipse.wst.server.core 4 0 2019-02-26 19:30:17.427
 !MESSAGE Could not delete T:\Usuarios\INFORMATICA\3B MODULAR NOITE\Rafael\workspace_rafael\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\livraria02\WEB-INF\lib\primefaces-3.4.1.jar. May be locked by another process.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-26 20:04:13.404
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
