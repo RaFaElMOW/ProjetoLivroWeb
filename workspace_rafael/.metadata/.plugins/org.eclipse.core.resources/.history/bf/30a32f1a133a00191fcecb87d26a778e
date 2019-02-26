@@ -1,0 +1,9 @@
+package br.com.bg.livraria02rafael.bean;
+import javax.faces.bean.ManagedBean;
+
+public class LivroBean {
+
+		public void algo() {
+			
+		}
+}

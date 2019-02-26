@@ -1,0 +1,22 @@
+package br.com.bg.livraria02rafael.bean;
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean
+public class LivroBean {
+
+	public void gravarLivro(){
+		System.out.println("Gravando Livro !");
+	}
+
+	public void verificarIdadeEValores(String nome, String idade, String sexo) {
+		int idadeParse = Integer.parseInt(idade);
+		if(idadeParse >= 18) {
+			System.out.println("Maior de idade");
+		}
+		else {
+			System.out.println("Menor de idade");
+		}
+		System.out.println("Nome: "+nome+" Idade: "+idade+" Sexo: "+sexo);
+	}
+
+}
