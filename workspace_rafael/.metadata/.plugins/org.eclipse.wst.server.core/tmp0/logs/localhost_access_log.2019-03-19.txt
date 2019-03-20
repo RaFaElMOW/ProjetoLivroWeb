@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Mar/2019:21:19:54 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:19:54 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:20:08 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:20:08 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+127.0.0.1 - - [19/Mar/2019:21:21:17 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:21:17 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:21:37 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:23:48 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:24:25 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 1255
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:24:25 -0300] "GET /livraria02/javax.faces.resource/logo.png.xhtml;jsessionid=BAAA39EB94065B86DC2641D4F3993D03?ln=img HTTP/1.1" 200 83656
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:24:25 -0300] "GET /livraria02/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 200 28139
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:00 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 1166
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:00 -0300] "GET /livraria02/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:00 -0300] "GET /livraria02/javax.faces.resource/logo.png.xhtml?ln=img HTTP/1.1" 200 425753
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 1165
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/javax.faces.resource/logo.png.xhtml?ln=img HTTP/1.1" 200 425753
