@@ -15,3 +15,7 @@
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 1165
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:25:01 -0300] "GET /livraria02/javax.faces.resource/logo.png.xhtml?ln=img HTTP/1.1" 200 425753
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:54:21 -0300] "GET /livraria02/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:54:23 -0300] "GET /livraria02/livro.xhtml HTTP/1.1" 200 1699
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:54:23 -0300] "GET /livraria02/javax.faces.resource/logo.png.xhtml;jsessionid=5594DAA144010671568E91E21366DD00?ln=img HTTP/1.1" 200 425753
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:54:27 -0300] "GET /livraria02/autor.xhtml HTTP/1.1" 200 1165
